@@ -9,10 +9,18 @@ My name is Ravleen. I am an MSc Cyber Security student, and this portfolio showc
 ## Modules
 | # | Folder | Module | Type |
 |---|--------|--------|------|
-| 1 | [cryptography-systems-security](cryptography-systems-security) | Object Oriented Programming | Core |
-| 2 | [network-security](network-security) | Network Security | Core |
+| 1 | [Object Oriented Programming](Object-Oriented-Programming) | Object Oriented Programming | Core |
+| 2 | [Privacy and Law](Privacy-and-Law) | Privacy and Law | Core |
 
 ## Folder Structure
+
+```
+Object Oriented Programming/
+├── README.md    what each document covers and who it is for
+├── Blog1.md   what I learnt, how my view changed, what I would do differently
+└── Blog2.md   same structure for the next reflection
+```
+
 
 ```
 Privacy and Law/
